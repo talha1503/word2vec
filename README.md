@@ -41,3 +41,4 @@ Number of Dimensions : ```10``` </br>
 * Research paper on Word2Vec https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
 * A YouTube video by Jordan Boyd-Graber https://www.youtube.com/watch?v=QyrUentbkvw
 * Medium blog by Derik Chia which helped in the implementation https://towardsdatascience.com/an-implementation-guide-to-word2vec-using-numpy-and-google-sheets-13445eebd281
+* PDF explaining the math behind Word2Vec's loss function http://mccormickml.com/assets/word2vec/Alex_Minnaar_Word2Vec_Tutorial_Part_I_The_Skip-Gram_Model.pdf
